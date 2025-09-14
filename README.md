@@ -1,6 +1,12 @@
 <h1 align="left">Joel Enosh</h1>
 
 **`Tech Explorer (Developer/QA/Project Management Enthusiast)`**
+<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="[https://www.instagram.com/mmaximus.soares/](https://www.instagram.com/69kngr?igsh=bmg2dzkxbHFyd25h&utm_source=qr)" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</»>
 
 
 - 📫 How to reach me **sa25610243@my.sliit.lk**
