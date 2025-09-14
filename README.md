@@ -1,5 +1,6 @@
 <h1 align="left">Joel Enosh</h1>
-<h3 align="left">Tech Explorer(Developer/QA/Project Management Enthusiast)</h3>
+
+**`Tech Explorer (Developer/QA/Project Management Enthusiast)`**
 
 
 - 📫 How to reach me **sa25610243@my.sliit.lk**
