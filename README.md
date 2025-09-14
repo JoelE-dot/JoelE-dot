@@ -1,6 +1,6 @@
 <h1 align="left">Joel Enosh</h1>
-<h3 align="left">A passionate frontend developer from Sri Lanka</h3>
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<h3 align="left">Tech Explorer(Developer/QA/Project Management Enthusiast)</h3>
+
 
 - 📫 How to reach me **sa25610243@my.sliit.lk**
 
