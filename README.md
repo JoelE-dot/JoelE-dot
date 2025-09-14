@@ -1,19 +1,44 @@
-<h1 align="left">Joel Enosh</h1>
+# 👨‍💻 Joel Enosh
 
-**`Tech Explorer (Developer/QA/Project Management Enthusiast)`**
-<a href="https://www.linkedin.com/in/maximus-soares/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="[https://www.instagram.com/mmaximus.soares/](https://www.instagram.com/69kngr?igsh=bmg2dzkxbHFyd25h&utm_source=qr)" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</»>
+**`Developer | QA Engineer | Project Manager`**
+
+I’m a 19-year-old software enthusiast and trainee project manager from Sri Lanka, currently studying at **SLIT University, Pallekele, Kandy**. I enjoy building and testing software projects, applying Agile and Waterfall methodologies, and solving real-world problems with code. I’m also the owner of **Karman Transport**, where I apply my skills in organization, planning, and leadership.
+
+All my coding projects are built from the ground up — from planning and designing to testing and deployment. I’m always learning and improving my skills, while exploring opportunities to collaborate on interesting projects.
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<br/>
+
+---
+
+![My Project Screenshot](https://github.com/user-attachments/assets/37c3fc52-3cb7-425e-9d38-2d312389c715)
 
 
-- 📫 How to reach me **sa25610243@my.sliit.lk**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelE-dot&show_icons=true&theme=radical)
+---
+
+### 💡 Interests & Goals
+
+- Building **web and mobile applications**  
+- Improving **software quality and testing**  
+- Learning new **programming languages and frameworks**  
+- Growing my business and **leadership skills** through Karman Transport  
+- Collaborating on projects that **solve real-world problems**
+
+---
+
