@@ -2,7 +2,7 @@
 
 **`Developer | QA Engineer | Project Manager`**
 
-I’m a 19-year-old software enthusiast and trainee project manager from Sri Lanka, currently studying at **SLIT University, Pallekele, Kandy**. I enjoy building and testing software projects, applying Agile and Waterfall methodologies, and solving real-world problems with code. I’m also the owner of **Karman Transport**, where I apply my skills in organization, planning, and leadership.
+I’m a 19-year-old software enthusiast and trainee project manager from Sri Lanka, currently studying at **SLIT University, Pallekele, Kandy**. I enjoy building and testing software projects, applying Agile and Waterfall methodologies, and solving real-world problems with code. where I apply my skills in organization, planning, and leadership.
 
 All my coding projects are built from the ground up — from planning and designing to testing and deployment. I’m always learning and improving my skills, while exploring opportunities to collaborate on interesting projects.
 
@@ -37,7 +37,6 @@ All my coding projects are built from the ground up — from planning and design
 - Building **web and mobile applications**  
 - Improving **software quality and testing**  
 - Learning new **programming languages and frameworks**  
-- Growing my business and **leadership skills** through Karman Transport  
 - Collaborating on projects that **solve real-world problems**
 
 ---
